@@ -100,7 +100,7 @@ msgstr "De Doodle3D Connect-webinterface openen"
 #: /home/ruben/Projects/Cura/plugins/ChangeLogPlugin/ChangeLog.py:33
 msgctxt "@item:inmenu"
 msgid "Show Changelog"
-msgstr "Wijzigingenlogboek Weergeven"
+msgstr "Wijzigingenlogboek weergeven"
 
 #: /home/ruben/Projects/Cura/plugins/ProfileFlattener/ProfileFlattener.py:20
 msgctxt "@item:inmenu"
@@ -125,7 +125,7 @@ msgstr "Printen via USB"
 #: /home/ruben/Projects/Cura/plugins/USBPrinting/USBPrinterOutputDevice.py:29
 msgctxt "@info:tooltip"
 msgid "Print via USB"
-msgstr "Via USB Printen"
+msgstr "Via USB printen"
 
 #: /home/ruben/Projects/Cura/plugins/USBPrinting/USBPrinterOutputDevice.py:31
 msgctxt "@info:status"
@@ -204,7 +204,7 @@ msgstr "Opslaan op Verwisselbaar Station {0}"
 #, python-brace-format
 msgctxt "@info:progress Don't translate the XML tags <filename>!"
 msgid "Saving to Removable Drive <filename>{0}</filename>"
-msgstr "Opslaan op Verwisselbaar Station <filename>{0}</filename>"
+msgstr "Opslaan op verwisselbaar station <filename>{0}</filename>"
 
 #: /home/ruben/Projects/Cura/plugins/RemovableDriveOutputDevice/RemovableDriveOutputDevice.py:89
 msgctxt "@info:title"
@@ -283,7 +283,7 @@ msgstr "Uitwerpen van {0} is niet gelukt. Mogelijk wordt het station door een an
 #: /home/ruben/Projects/Cura/plugins/RemovableDriveOutputDevice/WindowsRemovableDrivePlugin.py:68
 msgctxt "@item:intext"
 msgid "Removable Drive"
-msgstr "Verwisselbaar Station"
+msgstr "Verwisselbaar station"
 
 #: /home/ruben/Projects/Cura/plugins/UM3NetworkPrinting/NetworkPrinterOutputDevice.py:109
 #: /home/ruben/Projects/Cura/plugins/UM3NetworkPrinting/NetworkClusterPrinterOutputDevice.py:51
